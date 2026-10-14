@@ -1,0 +1,20 @@
+name: Feedback
+description: Difficulty, pacing, writing, balance, ideas, typos
+labels: [feedback]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      placeholder: "0.1"
+  - type: input
+    id: where
+    attributes:
+      label: Where in the game?
+      placeholder: "Gym 2, Route 7, the opening..."
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+    validations:
+      required: true

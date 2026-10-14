@@ -57,6 +57,16 @@ Barria's Town Map, as it appears in the game (and for Fly):
   <img src="Barria%20map.png" alt="Barria's Town Map" width="480" style="image-rendering: pixelated;">
 </p>
 
+## Feedback and bug reports
+
+Please [open an issue](../../issues/new/choose). A bug report or a note on difficulty, pacing or writing are both welcome.
+
+A good bug report has:
+
+- the game version (`0.1`) and the emulator you used
+- where it happened and what you were doing
+- a **save state** (`.ss1`, `.ss2`...) from just before the problem, if you can. It's the easiest way to reproduce a bug.
+
 ## Built on
 
 The game is built on the [pret pokeemerald](https://github.com/pret/pokeemerald) decompilation and
